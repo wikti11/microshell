@@ -2,7 +2,7 @@
 
 ## Premise
 
-The goal was to create simple Linux bash program using C language. The program's main feature is having a console that will allow a user to input command which then will be processed according to their content.
+The goal was to create simple Linux bash program using C language. The program's main feature is having a console that will allow a user to input command which then will be processed according to its content.
 
 ## Specificaitons
 

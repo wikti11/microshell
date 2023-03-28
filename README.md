@@ -11,3 +11,4 @@ The program displays {path} $ prompt sign, where the path displayed is current w
 ## Additional information
 
 This project was created by me from October 2020 until January 2021 using C language.
+To launch it use gcc -o name microshell.c command in Linux bash, where name is specified by you, followed by ./name in the directory you have microshell.c file in.
